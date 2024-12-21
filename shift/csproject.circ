@@ -2259,6 +2259,7 @@ This file is intended to be loaded by Logisim (http://www.cburch.com/logisim/).
       <circ-port height="8" pin="310,110" width="8" x="396" y="86"/>
       <circ-anchor facing="north" height="6" width="6" x="97" y="47"/>
     </appear>
+    <wire from="(1320,120)" to="(1320,140)"/>
     <wire from="(1060,490)" to="(1170,490)"/>
     <wire from="(220,170)" to="(330,170)"/>
     <wire from="(410,250)" to="(410,270)"/>
@@ -2270,6 +2271,7 @@ This file is intended to be loaded by Logisim (http://www.cburch.com/logisim/).
     <wire from="(1310,310)" to="(1310,360)"/>
     <wire from="(1310,510)" to="(1320,510)"/>
     <wire from="(420,160)" to="(450,160)"/>
+    <wire from="(1320,140)" to="(1400,140)"/>
     <wire from="(1310,310)" to="(1320,310)"/>
     <wire from="(310,290)" to="(340,290)"/>
     <wire from="(310,250)" to="(340,250)"/>
@@ -2294,10 +2296,8 @@ This file is intended to be loaded by Logisim (http://www.cburch.com/logisim/).
     <wire from="(890,500)" to="(890,520)"/>
     <wire from="(220,250)" to="(250,250)"/>
     <wire from="(220,210)" to="(250,210)"/>
-    <wire from="(1310,160)" to="(1310,210)"/>
     <wire from="(1310,360)" to="(1320,360)"/>
     <wire from="(770,470)" to="(1050,470)"/>
-    <wire from="(1310,160)" to="(1320,160)"/>
     <wire from="(1310,360)" to="(1310,410)"/>
     <wire from="(310,110)" to="(330,110)"/>
     <wire from="(760,550)" to="(790,550)"/>
@@ -2307,7 +2307,6 @@ This file is intended to be loaded by Logisim (http://www.cburch.com/logisim/).
     <wire from="(1020,410)" to="(1050,410)"/>
     <wire from="(400,250)" to="(410,250)"/>
     <wire from="(1280,590)" to="(1310,590)"/>
-    <wire from="(1380,140)" to="(1400,140)"/>
     <wire from="(1380,340)" to="(1400,340)"/>
     <wire from="(420,120)" to="(1320,120)"/>
     <wire from="(760,450)" to="(770,450)"/>
@@ -2554,9 +2553,6 @@ This file is intended to be loaded by Logisim (http://www.cburch.com/logisim/).
       <a name="tristate" val="false"/>
     </comp>
     <comp loc="(780,270)" name="Full Adder"/>
-    <comp lib="1" loc="(1380,140)" name="NAND Gate">
-      <a name="inputs" val="2"/>
-    </comp>
     <comp loc="(900,320)" name="Full Adder"/>
     <comp loc="(1260,470)" name="Full Adder"/>
     <comp lib="0" loc="(820,390)" name="Pin">
