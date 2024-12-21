@@ -7,5 +7,5 @@
 ## 版本
 版本 | 電路 |
 |:--------:|:-------:|
-| [不考慮整數位進位](/no_shift/README.md) | [github page](/no_shift) |
-| [考慮整數位進位](/shift/README.md) | [github page](/shift) |
+| [不考慮尾數進位](/no_shift/README.md) | [github page](/no_shift) |
+| [考慮尾數進位](/shift/README.md) | [github page](/shift) |
