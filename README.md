@@ -11,4 +11,7 @@
 | [考慮尾數進位](/shift/README.md) | [github page](/shift) |
 
 ### 成果發表
-[YouTube 成果報告]()
+[YouTube 成果報告](https://youtu.be/-55GWGg7bNI)
+
+### 投影片
+[113-1 計概期末報告](/113-1 計概期末報告.pdf)
